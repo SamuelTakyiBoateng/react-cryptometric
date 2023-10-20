@@ -38,19 +38,19 @@
 Some of the key features: 
 - **Homepage for to display available and tradeable cryptocurrencies**
 - **A search filtering element for easy identification of crypto of interest**
-- **A detailed page for the market trends and value of selected coin **
+- **A detailed page for the market trends and value of selected coin**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-- [Live Demo]()
+- [Live Demo](https://react-cryptometric.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📄 Project Documentation <a name="live-demo"></a>
-- [Walk through video]()
+- [Walk through video](https://www.loom.com/share/970fada887244c63997434909b0d2383)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
