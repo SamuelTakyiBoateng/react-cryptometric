@@ -116,7 +116,7 @@ If you like this project just give it a star
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse and and the Designer of the App [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio).
+I would like to thank Microverse and the Designer of the App [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
